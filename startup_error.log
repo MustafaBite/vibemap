@@ -1,0 +1,5 @@
+KRİTİK HATA: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+
+   konum: VibeMap.Forms.FrmLogin.InitializeComponent() C:\Users\MSİ\source\repos\VibeMap\Forms\FrmLogin.Designer.cs içinde: satır 35
+   konum: VibeMap.Forms.FrmLogin..ctor() C:\Users\MSİ\source\repos\VibeMap\Forms\FrmLogin.cs içinde: satır 16
+   konum: VibeMap.Program.Main() C:\Users\MSİ\source\repos\VibeMap\Program.cs içinde: satır 20
