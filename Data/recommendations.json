@@ -1,0 +1,42 @@
+[
+  {
+    "Category": "GAMES",
+    "Mood": "Energetic",
+    "Title": "DOOM Eternal",
+    "ImagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r8v.png",
+    "Description": "Hell's armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity.",
+    "ActionLink": "https://store.steampowered.com/app/782330/DOOM_Eternal/"
+  },
+  {
+    "Category": "MOVIES",
+    "Mood": "Tense",
+    "Title": "Under My Gaze",
+    "ImagePath": "C:\\Users\\MSİ\\.gemini\\antigravity\\brain\\cd1dad2d-f6ca-4c3e-a029-f51795f5fae9\\uploaded_image_1766829350634.jpg",
+    "Description": "Someone is watching you. Every second. A psychological thriller that explores the fine line between observation and obsession.",
+    "ActionLink": "https://www.imdb.com/title/tt1234567/"
+  },
+  {
+    "Category": "SERIES",
+    "Mood": "Tense",
+    "Title": "Under My Gaze: The Series",
+    "ImagePath": "C:\\Users\\MSİ\\.gemini\\antigravity\\brain\\cd1dad2d-f6ca-4c3e-a029-f51795f5fae9\\uploaded_image_1766829610801.jpg",
+    "Description": "A New Original Series. The nightmare continues as the watchers reveal themselves. No one is safe in this expanded thriller universe.",
+    "ActionLink": "https://www.netflix.com/title/1234567/"
+  },
+  {
+    "Category": "MOVIES",
+    "Mood": "Happy",
+    "Title": "Paddington 2",
+    "ImagePath": "https://m.media-amazon.com/images/M/MV5BMTAwNjU5OTkwMzleQTJeQWpwZ15BbWU4MDExMTI1MDIz._V1_.jpg",
+    "Description": "Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday.",
+    "ActionLink": "https://www.amazon.com/Paddington-2-Hugh-Bonneville/dp/B078XG9XKB"
+  },
+  {
+    "Category": "GAMES",
+    "Mood": "Happy",
+    "Title": "Stardew Valley",
+    "ImagePath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v8f.png",
+    "Description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life.",
+    "ActionLink": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+  }
+]

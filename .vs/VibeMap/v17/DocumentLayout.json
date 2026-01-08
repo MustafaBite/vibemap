@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MS\u0130\\source\\repos\\VibeMap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6511D716-51CC-45A1-BF40-2457E336708C}|VibeMap.csproj|c:\\users\\ms\u0130\\source\\repos\\vibemap\\utils\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6511D716-51CC-45A1-BF40-2457E336708C}|VibeMap.csproj|solutionrelative:utils\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6511D716-51CC-45A1-BF40-2457E336708C}|VibeMap.csproj|c:\\users\\ms\u0130\\source\\repos\\vibemap\\dataaccess\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6511D716-51CC-45A1-BF40-2457E336708C}|VibeMap.csproj|solutionrelative:dataaccess\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6511D716-51CC-45A1-BF40-2457E336708C}|VibeMap.csproj|c:\\users\\ms\u0130\\source\\repos\\vibemap\\forms\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6511D716-51CC-45A1-BF40-2457E336708C}|VibeMap.csproj|solutionrelative:forms\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\source\\repos\\VibeMap\\Utils\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Utils\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\source\\repos\\VibeMap\\Utils\\DbConnection.cs",
+              "RelativeToolTip": "Utils\\DbConnection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:02:09.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\source\\repos\\VibeMap\\DataAccess\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\source\\repos\\VibeMap\\DataAccess\\DatabaseInitializer.cs",
+              "RelativeToolTip": "DataAccess\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:01:45.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmHome.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\source\\repos\\VibeMap\\Forms\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmHome.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\source\\repos\\VibeMap\\Forms\\FrmHome.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Forms\\FrmHome.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:48:16.077Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
