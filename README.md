@@ -20,8 +20,8 @@ C# (.NET) tabanlı bir masaüstü uygulamasıdır.
 
 Aşağıda uygulamadan bazı ekran görüntüleri yer almaktadır:
 
-![VibeMap Ana Ekran](screenshots/main.png)
-![VibeMap Giriş](screenshots/login.png)
+![VibeMap Ana Ekran](main.png)
+![VibeMap Giriş](login.png)
 
 ## Kurulum
 1. Projeyi klonla
